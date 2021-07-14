@@ -1,4 +1,4 @@
-# Maximum Tax Savings Calculator
+# [Maximum Tax Savings Calculator](https://theboywhoprocrastinates.shinyapps.io/tax-savings-calculator/)
 
 The purpose of this calculator is to compute the maximum tax savings for Parent Relief shared between 2 claimants.
 
